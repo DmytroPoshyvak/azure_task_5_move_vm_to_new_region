@@ -1,4 +1,4 @@
 {
-  "sourceRegion": "eastus",
-  "resourcesTemplate": "https://dmposhyvak.blob.core.windows.net/task-artifacts/task5/exported-template.json?sv=2025-07-05&se=2026-12-22T20%3A28%3A47Z&sr=b&sp=r&sig=WUe69jQdkCjw%2FWx5j80W0mIoJi2zmU%2BN5iDmSE9SAJY%3D"
+  "sourceRegion": "denmarkeast",
+  "resourcesTemplate": "https://dmposhyvak.blob.core.windows.net/task-artifacts/task5/exported-template.json?sv=2025-07-05&se=2026-12-24T00%3A20%3A04Z&sr=b&sp=r&sig=gXHC8YR6wezCJDnrc8m4aZolg9vNRgWCCMu0wAl43Fg%3D"
 }
